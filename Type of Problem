@@ -1,0 +1,13 @@
+What type of problem are you solving??-->supervised or unsupervised or regression,etc
+
+We need to see the big picture
+
+We dont need to predict the churn rate.We need to reduce it.
+
+Identify the customers who will leave
+
+So now it seems like we have a supervised learning problem where we just need to classify whether the person will leave or not.
+
+Now I can identify the amount with which they want to leave the platform and give the discount accordingly.
+
+So,this seems to be like a regression problem.
